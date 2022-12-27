@@ -91,9 +91,7 @@ describe ('Array practice', function () {
     expect(shuffled).not.to.deep.equal(arr);
     expect(shuffled2).not.to.deep.equal(arr);
     expect(shuffled).not.to.deep.equal(shuffled2);
-
   });
 
 
 });
-
